@@ -21,6 +21,7 @@ using System.Xml.Linq;
 
 namespace RemoveDuplicates
 {
+    //Ahmed Sherif
     [Transaction(TransactionMode.Manual)]
     public class MainContext : IExternalCommand
     {
