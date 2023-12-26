@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Command">
+
+		<Name>RemoveDuplicates</Name>
+
+		<FullClassName>RemoveDuplicates.MainContext</FullClassName>
+
+		<Text>RemoveDuplicates</Text>
+
+		<Description>RemoveDuplicates</Description>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+		<Assembly>RemoveDuplicates.dll</Assembly>
+
+		<AddInId>
+			FEDDA29D-C802-4C1B-A36A-3B507EFFCC68
+		</AddInId>
+
+		<VendorId>HassanTarek</VendorId>
+
+		<VendorDescription>Hassan Tarek, Structural BIM Engineer, Revit Developer</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>
